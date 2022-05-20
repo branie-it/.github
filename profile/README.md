@@ -2,10 +2,10 @@
 
 Hier vind je al onze OSS bijdrages 🎉
 
-Check ook de site https://branie.it voor de laatste nieuwtjes en achtergrond over het bedrijf!
+Check ook https://branie.it voor de laatste nieuwtjes en achtergrond over het bedrijf!
 
 
-- Ely
+&dash; Ely
 
 <!--
 
