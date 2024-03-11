@@ -1,4 +1,4 @@
-## Hé, welkom op de GitHub van Branie IT 👋
+## Hé, welkom op de GitHub van BRAN!E 👋
 
 Hier vind je al onze OSS bijdrages 🎉
 
