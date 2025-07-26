@@ -1,19 +1,22 @@
-## Hé, welkom op de GitHub van BRAN!E 👋
+# Hé, welkom op de GitHub van BRANIE IT 👋
 
-Hier vind je al onze OSS bijdrages 🎉
+**Freelance software development met oog voor detail en onderhoudbare code.**
 
-Check ook https://branie.it voor de laatste nieuwtjes en achtergrond over het bedrijf!
+## 👨‍💻 Wat ik doe
+Ik help bedrijven die maatwerk zoeken - van web applicaties tot technische consultancy en [proof of concepts](https://branie.it/services/proof-of-concept/). Van idee tot deployment, met aandacht voor goede architectuur en onderhoudbare code.
 
+**Specialisaties:** JavaScript/TypeScript • Python • API ontwikkeling • Software architectuur • Technische consultancy
 
-&dash; Ely
+## 🛠️ Open Source & Experimenten
+[Hier vind je mijn hobbyprojecten en experimenten](https://github.com/edeckers). Van [Atari 2600 emulators](https://github.com/edeckers/atari2600-2025) tot [Monad libraries voor Python](https://github.com/edeckers/pyella) - de hobbyprojecten die me van de straat houden :)
 
-<!--
+## 📝 Schrijven over software
+Regelmatig [schrijf ik in mijn blog](https://branie.it/blog) over software development en de diensten die ik bied, e.g.:
+- [Ode aan mijn eerste computer: een Atari 2600 emulator in JavaScript](https://branie.it/blog/2025/07/24/2-hobbyproject-atari-2600-emulator-in-javascript.html)
+- [Hoe het ontwikkelen van zinloze software me een betere developer maakte](https://branie.it/blog/2025/07/24/1-hoe-het-ontwikkelen-van-nutteloze-software-me-een-betere-developer-maakte.html)
+- [Uitgelicht: proof of concept voor je idee](https://branie.it/blog/2024/06/20/dienst-uitgelicht-een-proof-of-concept-laten-ontwikkelen.html)
 
-**Here are some ideas to get you started:**
+## 🤝 Samenwerken?
+Vanuit Utrecht werk ik samen met bedrijven door heel Nederland om hun technische uitdagingen op te lossen.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Meer weten over hoe ik jouw technische uitdagingen kan oplossen? [Bekijk hier mijn diensten](https://branie.it/services) of doe inspiratie op [in mijn recente portfolio](https://branie.it/portfolio).
