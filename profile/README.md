@@ -3,7 +3,9 @@
 **Freelance software development met oog voor detail en onderhoudbare code.**
 
 ## 👨‍💻 Wat ik doe
-Ik help bedrijven die maatwerk zoeken - van web applicaties tot technische consultancy en [proof of concepts](https://branie.it/services/proof-of-concept/). Van idee tot deployment, met aandacht voor goede architectuur en onderhoudbare code.
+Ik ontwikkel en onderhoud maatwerksoftware voor bedrijven. Van idee tot opleering, met aandacht voor goede architectuur en onderhoudbare code.
+
+**Diensten:** Webapplicaties • API ontwikkeling • [Proof of concepts](https://branie.it/services/proof-of-concept/) • Technische consultancy
 
 **Specialisaties:** JavaScript/TypeScript • Python • API ontwikkeling • Software architectuur • Technische consultancy
 
