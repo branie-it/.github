@@ -10,7 +10,7 @@ Ik ontwikkel en onderhoud maatwerksoftware voor bedrijven. Van idee tot opleveri
 **Specialisaties:** JavaScript/TypeScript • Python • API ontwikkeling • Software architectuur • Technische consultancy
 
 ## 🛠️ Open Source & Experimenten
-[Hier vind je mijn hobbyprojecten en experimenten](https://github.com/edeckers). Van [Atari 2600 emulators](https://github.com/edeckers/atari2600-2025) tot [Monad libraries voor Python](https://github.com/edeckers/pyella) - de hobbyprojecten die me van de straat houden :)
+Op [mijn persoonlijke GitHub](https://github.com/edeckers) vind je mijn hobbyprojecten en experimenten. Van [Atari 2600 emulators](https://github.com/edeckers/atari2600-2025) tot [Monad libraries voor Python](https://github.com/edeckers/pyella) - de hobbyprojecten die me van de straat houden :)
 
 ## 📝 Schrijven over software
 Regelmatig [schrijf ik in mijn blog](https://branie.it/blog) over software development en de diensten die ik bied, e.g.:
