@@ -19,6 +19,6 @@ Regelmatig [schrijf ik in mijn blog](https://branie.it/blog) over software devel
 - [Uitgelicht: proof of concept voor je idee](https://branie.it/blog/2024/06/20/dienst-uitgelicht-een-proof-of-concept-laten-ontwikkelen.html)
 
 ## 🤝 Samenwerken?
-Vanuit Utrecht werk ik samen met bedrijven door heel Nederland om hun technische uitdagingen op te lossen.
+Als freelance developer in Utrecht werk ik samen met bedrijven om hun technische uitdagingen op te lossen.
 
-Meer weten over hoe ik jouw technische uitdagingen kan oplossen? [Bekijk hier mijn diensten](https://branie.it/services) of doe inspiratie op [in mijn recente portfolio](https://branie.it/portfolio).
+Meer weten over hoe ik dat aanpak? [Bekijk hier mijn diensten](https://branie.it/services) of doe inspiratie op [in mijn recente portfolio](https://branie.it/portfolio).
