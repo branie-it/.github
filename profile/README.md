@@ -7,6 +7,8 @@ Ik ontwikkel en onderhoud maatwerksoftware voor bedrijven. Van idee tot opleveri
 
 **Diensten:** Webapplicaties • API ontwikkeling • [Proof of concepts](https://branie.it/services/proof-of-concept/) • Technische consultancy
 
+**Producten:** [RankPath](https://rankpath.io) voor scherpe SEO audits, AI-gedreven Generative Engine Optimization (GEO), en concrete aanbevelingen. 
+
 **Specialisaties:** JavaScript/TypeScript • Python • API ontwikkeling • Software architectuur • Technische consultancy
 
 ## 🛠️ Open Source & Experimenten
